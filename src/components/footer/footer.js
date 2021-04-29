@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="upperDiv">
-        <div className="linksContainer">
+        {/* <div className="linksContainer">
           <div className="linksDiv linksDiv1">
             <p>Udemy for Business</p>
             <p>Teach on Udemy</p>
@@ -27,13 +27,13 @@ function Footer() {
             <p>Featured courses</p>
             <p> </p>
           </div>
-        </div>
+        </div> */}
         <div className="linksDiv linksDiv4"></div>
       </div>
       <div className="lowerDiv">
-        <img src="..//logo.jpg" className="udemyLogo" alt="logo"></img>
+        logo placeholder
         <div className="copyrightDiv">
-          <p>© 2020 Udemy, Inc.</p>
+          <p>© Snekcode 2021</p>
         </div>
       </div>
     </div>

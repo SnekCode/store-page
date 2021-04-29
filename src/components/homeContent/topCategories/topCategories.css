@@ -1,4 +1,5 @@
 .topCategories {
+  margin-top: 2rem;
   text-align: left;
   padding: 0px 12%;
 }
@@ -13,7 +14,6 @@
 
 .topCategories .categoryHeading {
   display: block;
-  color: #3c3b37;
 }
 
 .topCategories .categories * {

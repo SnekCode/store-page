@@ -7,11 +7,9 @@ function HeaderPrimary() {
   return (
     <div className="headerPrimary">
       <div className="left part">
-        <div className="udemyLogo">
-          <img src="..//logo.jpg" className="logo" alt="logo"></img>
-        </div>
+        <div className="udemyLogo">logo placeholder</div>
         <div className="categoriesDiv">
-          <span className="categories">Categories</span>
+          <span className="categories">Hacking Bible</span>
         </div>
       </div>
       <div className="mid part">
@@ -21,12 +19,6 @@ function HeaderPrimary() {
         <input className="searchBar" placeholder="Search for anything"></input>
       </div>
       <div className="right part">
-        <div className="businessDiv">
-          <span className="business">Udemy for Business</span>
-        </div>
-        <div className="teachDiv">
-          <span className="teach">Teach on Udemy</span>
-        </div>
         <div className="cartDiv">
           <ShoppingCartOutlinedIcon className="icon" />
         </div>

@@ -5,8 +5,8 @@ function FillerDiv() {
   return (
     <div className="fillerDiv">
       <div className="aboutFiller">
-        <h2>Get personal learning recommendations</h2>
-        <p>Answer a few questions for your top picks</p>
+        <h2>Start the Guided Hacking Bible</h2>
+        <p>Learn game hacking and become an expert by following our courses</p>
         <div className="getstartedButton">Get Started</div>
       </div>
     </div>

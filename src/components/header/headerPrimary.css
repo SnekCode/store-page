@@ -1,5 +1,6 @@
 .headerPrimary {
-  color: #3c3b37;
+  color: white;
+  background-color: #212428;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -20,6 +21,7 @@
   display: flex;
   align-items: center;
   cursor: pointer;
+  color: white;
 }
 
 .headerPrimary .part {
@@ -37,13 +39,23 @@
   position: relative;
 }
 
+.mid {
+  margin-left: 2rem;
+}
+
+.right {
+  margin-left: auto
+}
+
 .headerPrimary .searchBar {
   border-radius: 50px;
+  background-color: #42464d;
   border: 1px #64635e solid;
   font-size: 0.9rem;
   height: 45px;
   width: 100%;
-  padding-left: 7%;
+  padding-left: 4%;
+  margin-right: 10rem;
 }
 
 .headerPrimary .searchIcon {

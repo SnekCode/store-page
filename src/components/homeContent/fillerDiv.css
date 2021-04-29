@@ -4,7 +4,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url(https://s.udemycdn.com/browse_components/shared-assets/purple-intersect.svg)
+  background: url('../../background.jpg')
     repeat-x #6e1a52;
   height: 200px;
   background-size: auto 120%;

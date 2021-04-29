@@ -12,18 +12,17 @@ import VideoAdDiv from "../components/homeContent/videoAdDiv";
 
 function HomeContent() {
     return (
-        <div>
-            <AdImage />
-            <Feature1 />
-            <Recommendations />
-            <Feature2 />
-            <FillerDiv />
-            <TopCategories />
-            <BecomeInstructor />
-            <TrustedCompanies />
-            <UdemyForBusiness />
-            <VideoAdDiv />
-        </div>
+      <div>
+        {/* <AdImage /> */}
+        {/* <Feature1 /> */}
+        {/* <Recommendations /> */}
+        {/* <Feature2 /> */}
+        <FillerDiv />
+        <TopCategories />
+        {/* <BecomeInstructor /> */}
+        {/* <TrustedCompanies /> */}
+        {/* <UdemyForBusiness /> */}
+      </div>
     );
 }
 

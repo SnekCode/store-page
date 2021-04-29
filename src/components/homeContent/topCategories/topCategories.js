@@ -11,7 +11,7 @@ function TopCategories() {
           imgSrc={
             "https://s.udemycdn.com/home/top-categories/lohp-category-design.jpg"
           }
-          title={"Design"}
+          title={"Understanding Balance"}
         />
         <CategoryCard
           imgSrc={
@@ -23,37 +23,25 @@ function TopCategories() {
           imgSrc={
             "https://s.udemycdn.com/home/top-categories/lohp-category-marketing.jpg"
           }
-          title={"Marketing"}
+          title={"External Hacks"}
         />
         <CategoryCard
           imgSrc={
             "https://s.udemycdn.com/home/top-categories/lohp-category-it-and-software.jpg"
           }
-          title={"IT and Software"}
+          title={"Reverse Engineering"}
         />
         <CategoryCard
           imgSrc={
             "https://s.udemycdn.com/home/top-categories/lohp-category-personal-development.jpg"
           }
-          title={"Personal Development"}
+          title={"Internal Hacks"}
         />
         <CategoryCard
           imgSrc={
             "https://s.udemycdn.com/home/top-categories/lohp-category-business.jpg"
           }
-          title={"Business"}
-        />
-        <CategoryCard
-          imgSrc={
-            "https://s.udemycdn.com/home/top-categories/lohp-category-photography.jpg"
-          }
-          title={"Photography"}
-        />
-        <CategoryCard
-          imgSrc={
-            "https://s.udemycdn.com/home/top-categories/lohp-category-music.jpg"
-          }
-          title={"Music"}
+          title={"Cheat Engine"}
         />
       </div>
     </div>
